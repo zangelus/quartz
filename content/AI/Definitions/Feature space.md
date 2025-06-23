@@ -1,0 +1,1 @@
+Same as [[Latent space]]

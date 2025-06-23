@@ -1,0 +1,1 @@
+Words are mapped to points in a latent space (e.g., [[Word2Vec]], [[BERT]])
