@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/baechoi sh
 npx quartz sync
