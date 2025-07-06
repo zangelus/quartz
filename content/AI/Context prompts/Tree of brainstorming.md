@@ -32,3 +32,16 @@ id9 --> id10
 
 
 
+
+```mermaid
+graph TD;
+id1((Automation)) --> id2((7));
+id1((Automation)) --> id3((5));
+id2((7)) --> id4((Automation));
+id2((7)) --> id5((10));
+id2((7)) --> id6((6));
+id3((5)) --> id7((9));
+id7((9)) --> id8((4));
+id6((6)) --> id9((5));
+id6((6)) --> id10((11));
+```
